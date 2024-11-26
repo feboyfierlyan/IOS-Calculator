@@ -12,7 +12,7 @@ A simple iOS Calculator app built using Swift and SwiftUI. The app provides basi
 
 ## Screenshots
 
-<img src="./screen_ui.jpeg" alt="Calculator App Screenshot" width="400"/>  
+<img src="./screen_ui.jpeg" alt="Calculator App Screenshot" width="200"/>  
 *Example screenshot of the app in action.*
 
 ## Installation
